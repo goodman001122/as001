@@ -1,0 +1,17 @@
+
+var wshell = new ActiveXObject("WScript.Shell");
+var fso = new ActiveXObject("Scripting.FileSystemObject");
+
+ISTA();
+
+function ISTA()
+{
+MD();
+};
+
+function MD() 
+{
+    var fullpath = 'C:\\Users\\WECANGO\\AppData\\Local\\Microsoft\\Windows\\aaa';
+    fso.CreateFolder(fullpath);
+
+};
